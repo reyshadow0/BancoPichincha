@@ -82,7 +82,7 @@ BancoPichincha/
 **Mario**  
 Estudiante de Ingeniería en Software  
 Universidad Técnica Estatal de Quevedo (UTEQ)  
-Facultad de Ciencias de la Ingeniería
+Facultad de Ciencias de la Computación
 
 ## 📌 Nota
 
