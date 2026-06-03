@@ -5,7 +5,7 @@ Replica de la pantalla de inicio de sesión de la aplicación móvil del Banco P
 ## 📱 Capturas de pantalla
 
 <p align="center">
-  <img src="screenshots/main.png" width="300"/>
+  <img src="main.png" width="300"/>
 </p>
 
 ## 🛠️ Tecnologías utilizadas
